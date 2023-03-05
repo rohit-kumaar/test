@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "rohit",
+      "email": "rohit@gmail.com",
+      "password": "rohit",
+      "id": 1
+    },
+    {
+      "name": "ricky",
+      "email": "ricky@gmail.com",
+      "password": "ricky",
+      "id": 2
+    },
+    {
+      "name": "rickypong",
+      "email": "rickypong@gmail.com",
+      "password": "rickypong",
+      "id": 3
+    }
+  ]
+}
